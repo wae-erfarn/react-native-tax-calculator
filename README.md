@@ -1,6 +1,6 @@
 ﻿# react-native-tax-calculator
 
-
+คำนวณภาษี อย่างง่าย
 
 ![image](https://imgur.com/3gF7Mgo.jpg)
 
